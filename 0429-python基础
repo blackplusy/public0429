@@ -1,0 +1,44 @@
+1.python的应用领域
+房产推荐系统
+a.爬虫--中原、链家、58--[光\大小\地理位置\价格\楼层\朝向\评论]
+b.数据分析--分析大部分人的需求--影响好房子的因素--[光、地理位置、价]
+c.网站开发--作为展示平台--VIP--[tel,passwd,mail,wechat,qq]
+d.行为分析--分析个人的需求--推荐
+e.自动化测试
+f.自动化运维
+
+2.python的安装
+	python2
+	python3
+	a.官网下载
+	https://www.python.org/
+	https://www.python.org/downloads/windows/
+	补充：操作系统
+	x86          32位操作系统
+	x86_64 x64   64位操作系统
+	注意：下载时候注意对应版本，add python to path
+
+3.常用的开发工具
+	pycharm
+	eclipse+pydev
+	sublime text
+	vim
+	idle
+
+4.运行环境(怎样运行python程序代码)
+	图形化工具
+	win+r--cmd--python  写入程序代码
+	win+r--cmd--python 文件名
+	python idle--新建文件写入程序代码 --F5
+
+	补充：测试所用代码
+	print('its a test')  
+	输出its a test到控制端上
+
+
+
+
+
+
+
+
