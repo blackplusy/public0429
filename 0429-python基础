@@ -30,10 +30,46 @@ f.自动化运维
 	win+r--cmd--python  写入程序代码
 	win+r--cmd--python 文件名
 	python idle--新建文件写入程序代码 --F5
-
 	补充：测试所用代码
 	print('its a test')  
 	输出its a test到控制端上
+
+5.设置环境变量
+	让系统可以找到对应命令文件
+	计算机--属性--高级--环境变量--系统变量--Path中添加
+	;C:\Users\Administrator\AppData\Local\Programs\Python\Python36
+	确定--确定--确定
+	注意：设置完环境变量后需要重新打开命令提示符生效
+	命令提示符:win+r--cmd
+
+6.python的输入和输出
+	a.输入的应用场景
+	b.输出的应用场景
+	c.python的输出
+	d.python的输入
+
+a.输入的应用场景
+	a.登录网站输入用户名和密码
+	b.录制视频时候声音和视频传入电脑中
+	c.指纹打卡
+
+b.输出的应用场景
+	a.您访问的页面不存在(404)
+	b.调试程序的时候输出错误
+	c.登录网站输入用户名和密码时候的提示信息
+
+c.python的输出
+	a.直接输出
+	b.变量输出
+	c.函数输出
+	d.格式化输出
+
+d.python的输入
+	input      python2中input是接受键盘输入的数字类型数据，python3中是接受键盘传入的字符类型数据
+	raw_input  python2中接受键盘输入的字符类型数据，python3中已经废弃
+	
+
+
 
 
 
